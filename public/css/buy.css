@@ -1,0 +1,68 @@
+.textflex>h3{
+    font-weight: bold;
+    opacity: 0.7;
+}
+
+.linkToMain {
+    background-color: rgb(133, 231, 255);
+    color: black;
+    padding: 7px;
+    border-radius: 10px;
+    text-decoration: none;
+    border: 1px solid rgb(133, 231, 255);
+    }
+.linkToMain:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    opacity: 0.7;
+}
+
+.linkToMain2 {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    padding: 7px;
+    border-radius: 10px;
+    text-decoration: none;
+    border: 1px solid rgb(133, 133, 133);
+    }
+.linkToMain2:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    opacity: 0.7;
+}
+
+
+.img-Ticket>img{
+    position: relative;
+    top: 14px;
+}
+
+.name-Ticket>a{
+    position: relative;
+    top: 10px;
+    right: 40px;
+    color: rgb(94, 196, 255);
+    font-weight: bold;
+}
+
+.name-Ticket>p{
+    position: relative;
+    right: 40px;
+    top: 15px;
+}
+
+.number-Ticket{
+    position: relative;
+    top: 10px;
+}
+
+.price-Ticket{
+    position: relative;
+    top:10px ;
+}
+
+.coupon-inforpay{
+    margin-top: 15px;
+    margin-left: 44px;
+}
+
